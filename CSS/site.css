@@ -6,6 +6,7 @@
 }
 
 #board {
+    margin: auto; 
     background-color: tan;
     width: 94vw;
     height: 94vw;
@@ -30,6 +31,7 @@
   }
 
   .space {
+    margin-top: 3px; 
     height: 97%;
     width: calc(100% / 8.3);
   }
